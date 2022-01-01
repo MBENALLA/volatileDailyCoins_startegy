@@ -1,0 +1,1 @@
+# volatileDailyCoins_startegy
